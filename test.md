@@ -54,7 +54,7 @@ Lastly, we set up the development server by using `uvicorn.run` and providing th
 
 Finally, run the server in the terminal with `python main.py`. Once you see `Application startup complete` in the terminal, navigate to the URL [http://localhost:3500/test](http://localhost:3500/test) on your browser, and you should get a web page like this:
 
-![Test page](https://github.com/stephensanwo/fullstack-ai-chatbot/blob/master/docs/images/test-page.png)
+![Test page](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/99e7716c-7699-44d6-e0fc-91f34d5c8c00/public)
 
 ### How to Add Routes to the API
 
