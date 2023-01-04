@@ -1,7 +1,7 @@
 notification: True
 notification_message: HYPERCOMPOSE is currently in private beta, <a href = "https://127.0.0.1:8050/access-form"> click here </a> to join the waitlist
 meta:
-  title: HYPERCOMPOSE | Supercharge your writing with Artificial Intelligence",
+  title: HYPERCOMPOSE | Supercharge your writing with Artificial Intelligence
   description: HYPERCOMPOSE | Supercharge your writing with Artificial Intelligence  
   type: website
   url: f"{request}projects"
