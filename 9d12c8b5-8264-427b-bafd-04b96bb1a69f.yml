@@ -25,7 +25,8 @@ meta:
     - Stephen Sanwo
 
 data:
-  title: 'Project Corpenicus - UDI Tracking with Satellite Imagery and Computer Vision Algorithms'
+  title: Project Corpenicus - UDI Tracking with Satellite Imagery and Computer Vision Algorithms
+  
   urls:
     - id: 1
       url: ''
@@ -33,13 +34,16 @@ data:
     - id: 2
       url: ''
       title: Live Product Page
+      
   caption: Estimating Urban Development Index (UDI) for target areas of interest (AOI) over time, using satellite imagery and computer vision algorithms.
+  
   tags: 
    - '#Satellite Imagery'
    - '#Computer Vision'
    - '#NodeJs'
    - '#GraphQL'
    - '#Urban Development'
+  
   body:
     - type: image
       title: Project Corpenicus Welcome Screen
