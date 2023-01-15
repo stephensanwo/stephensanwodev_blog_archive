@@ -689,7 +689,7 @@ data:
         Finally, we will test the chat system by creating multiple chat sessions in Postman, connecting multiple clients in Postman, and chatting with the bot on the clients.
         Lastly, we will try to get the chat history for the clients and hopefully get a proper response.
 
-        ![chat-static.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/545e18b9-0107-4066-2373-5c6182ab9200/public)
+        ![chat-static.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/657f7475-7228-4f7a-c936-eb9ef7942d00/public)
 
         #### Recap
 
