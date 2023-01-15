@@ -378,7 +378,7 @@ data:
 
         Open Redis Insight and you should have something similar to the below:
 
-        ![conversation-chat.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/f6f5794c-a300-4150-f112-e1c4cdf93e00/public)
+        ![conversation-chat.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/545e18b9-0107-4066-2373-5c6182ab9200/public)
 
         #### Stream Consumer and real-time data pull from the message queue
 
@@ -689,7 +689,7 @@ data:
         Finally, we will test the chat system by creating multiple chat sessions in Postman, connecting multiple clients in Postman, and chatting with the bot on the clients.
         Lastly, we will try to get the chat history for the clients and hopefully get a proper response.
 
-        ![chat-static.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/32e5332d-2651-4f6f-cc56-db9cb1db7700/public)
+        ![chat-static.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/545e18b9-0107-4066-2373-5c6182ab9200/public)
 
         #### Recap
 
