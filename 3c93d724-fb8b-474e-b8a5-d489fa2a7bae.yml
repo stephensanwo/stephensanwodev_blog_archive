@@ -50,8 +50,12 @@ data:
 
         We will not be building or deploying any language models on Hugginface. Instead, we'll focus on using Huggingface's accelerated inference API to connect to pre-trained models. The model we will be using is the [GPT-J-6B Model provided by EleutherAI](https://huggingface.co/EleutherAI/gpt-j-6B). It's a generative language model which was trained with 6 Billion parameters. Huggingface provides us with an on-demand limited API to connect with this model pretty much free of charge. To get started with Huggingface, [Create a free account](https://huggingface.co/pricing). In your settings, [generate a new access token](https://huggingface.co/settings/tokens). For up to 30k tokens, Huggingface provides access to the inference API for free. You can [Monitor your API usage here](https://api-inference.huggingface.co/dashboard/usage). Make sure you keep this token safe and don't expose it publicly.
 
-        Note: We will use HTTP connections to communicate with the API because we are using a free account. But the PRO Huggingface account supports streaming with WebSockets [see parallelism and batch jobs](https://huggingface.co/docs/api-inference/parallelism). This can help significantly improve response times between the model and our chat application, and I'll hopefully cover this method in a follow-up article.
-
+        <div class="notification notification-warning">
+        <p>
+        Note: We will use HTTP connections to communicate with the API because we are using a free account. But the PRO Huggingface account supports streaming with WebSockets <a href="https://huggingface.co/docs/api-inference/parallelism" target="_blank">see parallelism and batch jobs</a>. This can help significantly improve response times between the model and our chat application, and I'll hopefully cover this method in a follow-up article.
+        </p>
+        </div>
+        
         #### How to Interact with the Language Model
 
         First, we add the Huggingface connection credentials to the .env file within our worker directory.
