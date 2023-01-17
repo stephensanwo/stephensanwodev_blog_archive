@@ -1,5 +1,5 @@
-title: Title
-slug: slug
+title: Build a Fullstack AI Chatbot Part 1 - Introduction
+slug: part-1-introduction-fullstack-ai-chatbot
 notification : False
 notification_message : ''
 content: Index
@@ -9,9 +9,9 @@ breadcrumb :
 meta:
   product: Product
   title : Title
-  description : Description  
+  description : This tutorial will take you through a step-by-step approach to building a fullstack intelligent AI-based chat system, with Redis, GPT Python, FastAPI  
   type : article
-  url : slug
+  url : https://www.stephensanwo.dev/blog/fullstack-ai-chatbot-series
   image : image_url
   tags: 
     - Tag 1
