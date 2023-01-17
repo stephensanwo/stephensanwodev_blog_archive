@@ -50,7 +50,7 @@ data:
         - How to store and retrieve data with **Redis JSON**
         - How to set up **Redis Streams** as message queues between a web server and worker environment
 
-        ### Redis and Distributed Messaging Queues
+        #### Redis and Distributed Messaging Queues
 
         Redis is an open-source in-memory data store that you can use as a database, cache, message broker, and streaming engine. It supports a number of data structures and is a perfect solution for distributed applications with real-time capabilities.
 
@@ -90,7 +90,7 @@ data:
         pip install aiohttp aioredis python-dotenv
         ```
 
-        ### How to Connect to a Redis Cluster in Python with a Redis Client
+        #### How to Connect to a Redis Cluster in Python with a Redis Client
 
         We will use the aioredis client to connect with the Redis database. We'll also use the requests library to send requests to the Huggingface inference API.
 
@@ -152,7 +152,7 @@ data:
 
         ![redis-insight-test.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/e452338d-6b7e-490c-94f3-61bf14b28b00/public)
 
-        ### How to Work with Redis Streams
+        #### How to Work with Redis Streams
 
         Now that we have our worker environment setup, we can create a producer on the web server and a consumer on the worker.
 
@@ -252,7 +252,7 @@ data:
 
         ![redis-insight-channel.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/c4b3c0c6-212d-4dcd-e488-9ad2396a7300/public)
 
-        ### How to Model the Chat Data
+        #### How to Model the Chat Data
 
         Next, we'll create a model for our chat messages. Recall that we are sending text data over WebSockets, but our chat data needs to hold more information than just the text. We need to timestamp when the chat was sent, create an ID for each message, and collect data about the chat session, then store this data in a JSON format.
 
@@ -283,7 +283,7 @@ data:
 
         The messages sent and received within this chat session are stored with a `Message` class which creates a chat id on the fly using `uuid4`. The only data we need to provide when initializing this `Message` class is the message text.
 
-        ### How to Work with Redis JSON
+        #### How to Work with Redis JSON
 
         In order to use Redis JSON's ability to store our chat history, we need to install [rejson](https://github.com/RedisJSON/redisjson-py) provided by Redis labs.
 
@@ -359,7 +359,7 @@ data:
 
         ![token-generator-updated.png](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/53ca3e6b-5094-4e60-e532-00bdce8b2200/public)
 
-        ### Updating the Token Dependency
+        #### Updating the Token Dependency
 
         Now that we have a token being generated and stored, this is a good time to update the `get_token` dependency in our `/chat` WebSocket. We do this to check for a valid token before starting the chat session.
 
