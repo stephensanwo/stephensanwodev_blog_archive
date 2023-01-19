@@ -61,7 +61,7 @@ data:
       title: Build a Fullstack AI Chatbot Part 1 - Introduction
       description: Introduction - What we will be building
       status: ""
-      url: ""
+      url: "/blog/part-1-introduction-fullstack-ai-chatbot"
       actions: ""
       product: ""
 
@@ -69,7 +69,7 @@ data:
       title: Build a Fullstack AI Chatbot Part 2 - Chat Server
       description: In this section, we will build the chat server using FastAPI to communicate with the user. We will use WebSockets to ensure bi-directional communication between the client and server so that we can send responses to the user in real-time.
       status: ""
-      url: ""
+      url: "/blog/build-a-fullstack-ai-chatbot-part-2-chat-server"
       actions: ""
       product: ""
       
@@ -77,7 +77,7 @@ data:
       title: Build a Fullstack AI Chatbot Part 3 - Real-Time Systems with Redis
       description: In this part of the tutorial, we will cover; How to connect to a Redis Cluster in Python and set up a Redis Client, How to store and retrieve data with Redis JSON and How to set up Redis Streams as message queues between a web server and worker environment
       status: ""
-      url: ""
+      url: "/blog/build-a-fullstack-ai-chatbot-part-3-real-time-systems-with-redis"
       actions: ""
       product: ""
       
@@ -86,7 +86,7 @@ data:
       title: Build a Fullstack AI Chatbot Part 4 - Add Intelligence to Chatbots
       description: In this section, we will focus on building a wrapper to communicate with the transformer model, send prompts from a user to the API in a conversational format, and receive and transform responses for our chat application.
       status: ""
-      url: ""
+      url: "/blog/build-a-fullstack-ai-chatbot-part-4-add-intelligence-to-chatbots"
       actions: ""
       product: ""
 
