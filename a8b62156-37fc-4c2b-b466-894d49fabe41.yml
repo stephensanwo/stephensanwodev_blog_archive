@@ -62,7 +62,7 @@ data:
       description: Introduction - What we will be building
       status: ""
       url: "/blog/part-1-introduction-fullstack-ai-chatbot"
-      actions: ""
+      actions: "<h6>Next articles in the series</h6>"
       product: ""
 
     - id: "2"
