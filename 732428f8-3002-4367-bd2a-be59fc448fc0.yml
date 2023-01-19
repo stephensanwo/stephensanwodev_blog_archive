@@ -381,4 +381,20 @@ data:
   
   cards: []
 
-  links: []
+  links:
+    - id: "3"
+      title: Build a Fullstack AI Chatbot Part 3 - Real-Time Systems with Redis
+      description: In this part of the tutorial, we will cover; How to connect to a Redis Cluster in Python and set up a Redis Client, How to store and retrieve data with Redis JSON and How to set up Redis Streams as message queues between a web server and worker environment
+      status: ""
+      url: "/blog/build-a-fullstack-ai-chatbot-part-3-real-time-systems-with-redis"
+      actions: "<h6>Next articles in the series</h6>"
+      product: ""
+      
+      
+    - id: "4"
+      title: Build a Fullstack AI Chatbot Part 4 - Add Intelligence to Chatbots
+      description: In this section, we will focus on building a wrapper to communicate with the transformer model, send prompts from a user to the API in a conversational format, and receive and transform responses for our chat application.
+      status: ""
+      url: "/blog/build-a-fullstack-ai-chatbot-part-4-add-intelligence-to-chatbots"
+      actions: ""
+      product: ""
