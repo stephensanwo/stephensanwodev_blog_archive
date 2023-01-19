@@ -125,7 +125,7 @@ data:
       description: In this section, we will build the chat server using FastAPI to communicate with the user. We will use WebSockets to ensure bi-directional communication between the client and server so that we can send responses to the user in real-time.
       status: ""
       url: "/blog/build-a-fullstack-ai-chatbot-part-2-chat-server"
-      actions: "<p><strong>Next articles in the series</strong></p>"
+      actions: "<h6>Next articles in the series</h6>"
       product: ""
       
     - id: "3"
