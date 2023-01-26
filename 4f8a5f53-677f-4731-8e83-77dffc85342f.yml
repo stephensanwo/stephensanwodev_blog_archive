@@ -18,7 +18,7 @@ meta:
   authors: 
     - Stephen Sanwo
 data:
-  title: Title
+  title: Infographic - What happens when you type a url in your web browser ?
   urls:
     - id: 1
       url: ''
