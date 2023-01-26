@@ -1,4 +1,4 @@
-title: Title
+title: Infographic - What happens when you type a url in your web browser ?
 slug: slug
 notification: False
 notification_message: ''
@@ -8,8 +8,8 @@ breadcrumb:
     page_url: /index
 meta:
   product: Product
-  title: Title
-  description: Description  
+  title: Infographic - What happens when you type a url in your web browser ?
+  description: What happens when you type a url in your web browser ?  
   type: article
   url: slug
   image: image_url
@@ -27,22 +27,10 @@ data:
   tags: 
    - '#Tag 1'
   body:
-    - type: image
-      title: Image Title
-      url: image_url
-    
     - type: markdown
       content: |
-        Markdown text
-
-    - type: paragraph
-      content: Paragraph
-
-    - type: warning
-      content: Warning
-
-    - type: sub-heading
-      content: Sub Heading
+        ![Blog Image](https://127.0.0.1/static/assets/ai.svg)
+        
       
   cards: []
 
