@@ -1,4 +1,4 @@
-title: Infographic - What happens when you type a url in your web browser ?
+title: What happens when you type a url in your web browser ?
 slug: slug
 notification: False
 notification_message: ''
@@ -8,7 +8,7 @@ breadcrumb:
     page_url: /index
 meta:
   product: Product
-  title: Infographic - What happens when you type a url in your web browser ?
+  title: What happens when you type a url in your web browser ?
   description: What happens when you type a url in your web browser ?  
   type: article
   url: slug
@@ -18,14 +18,13 @@ meta:
   authors: 
     - Stephen Sanwo
 data:
-  title: Infographic - What happens when you type a url in your web browser ?
-  urls:
-    - id: 1
-      url: ''
-      title: Fork on Github
-  caption: Caption
+  title: What happens when you type a url in your web browser ?
+  urls: []
+  caption: "
   tags: 
-   - '#Tag 1'
+   - Infographic
+   - HTTP
+   - Web
   body:
     - type: markdown
       content: |
