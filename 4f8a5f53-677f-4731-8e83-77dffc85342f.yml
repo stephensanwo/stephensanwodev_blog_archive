@@ -12,7 +12,7 @@ meta:
   description: What happens when you type a url in your web browser ?  
   type: article
   url: slug
-  image: https://127.0.0.1:4100/static/assets/ai.svg
+  image: https://192.168.1.244:4100/static/assets/ai.svg
   tags: 
     - Tag 1
   authors: 
@@ -28,7 +28,7 @@ data:
   body:
     - type: markdown
       content: |
-        ![Blog Image](https://127.0.0.1:4100/static/assets/ai.svg)
+        ![Blog Image](https://192.168.1.244:4100/static/assets/ai.svg)
         
       
   cards: []
