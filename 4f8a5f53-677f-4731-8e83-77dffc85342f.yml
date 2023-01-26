@@ -1,25 +1,30 @@
 title: What happens when you type a url in your web browser ?
-slug: slug
+slug: what-happens-when-you-type-a-url-in-your-web-browser
 notification: False
 notification_message: ''
 content: Index
 breadcrumb:
-  - page: Index
-    page_url: /index
+  - page: Blog
+    page_url: /blog
 meta:
-  product: Product
+  product: Infographics
   title: What happens when you type a url in your web browser ?
   description: What happens when you type a url in your web browser ?  
   type: article
-  url: slug
+  url: https://www.stephensanwo.dev/blog/what-happens-when-you-type-a-url-in-your-web-browser
   image: https://192.168.1.244:4100/static/assets/ai.svg
   tags: 
-    - Tag 1
+   - Infographic
+   - HTTP
+   - Web
   authors: 
     - Stephen Sanwo
 data:
   title: ""
-  urls: []
+  urls:
+    - id: 1
+      url: 'https://192.168.1.244:4100/static/assets/ai.svg'
+      title: Share Image
   caption: ""
   tags: 
    - Infographic
