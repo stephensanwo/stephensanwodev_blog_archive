@@ -14,7 +14,7 @@ meta:
   description : This tutorial will take you through a step-by-step approach to building a fullstack intelligent AI-based chat system, with Redis, GPT Python, FastAPI  
   type : article
   url : https://www.stephensanwo.dev/blog/part-1-introduction-fullstack-ai-chatbot
-  image : https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/db16e46b-7151-48d4-3413-9d3bf50f2800/public
+  image : https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/d14106a2-90fa-47eb-2256-533fc46f5200/public
   tags: 
     - Artificial Intelligence
     - Chatbot
@@ -42,7 +42,7 @@ data:
   body:
     - type: markdown
       content: |
-        ![Blog Image](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/db16e46b-7151-48d4-3413-9d3bf50f2800/public)
+        ![Blog Image](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/d14106a2-90fa-47eb-2256-533fc46f5200/public)
         
         In order to build a working full-stack application, there are so many moving parts to think about. And you'll need to make many decisions that will be critical to the success of your app.
 
