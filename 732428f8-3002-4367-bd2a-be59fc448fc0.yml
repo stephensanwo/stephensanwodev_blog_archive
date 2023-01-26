@@ -14,7 +14,7 @@ meta:
   description : In this section, we will build the chat server using FastAPI to communicate with the user. We will use WebSockets to ensure bi-directional communication between the client and server so that we can send responses to the user in real-time.  
   type : article
   url : https://www.stephensanwo.dev/blog/build-a-fullstack-ai-chatbot-part-2-chat-server
-  image : https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/e07e129d-2630-4816-b8a6-733cb20e1400/public
+  image : https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/db16e46b-7151-48d4-3413-9d3bf50f2800/public
   tags: 
     - Artificial Intelligence
     - Chatbot
@@ -42,7 +42,7 @@ data:
   body:
     - type: markdown
       content: |
-        ![Blog Image](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/e07e129d-2630-4816-b8a6-733cb20e1400/public)
+        ![Blog Image](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/db16e46b-7151-48d4-3413-9d3bf50f2800/public)
         
         #### How to Set Up the Python Environment
 
