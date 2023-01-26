@@ -12,7 +12,7 @@ meta:
   description: What happens when you type a url in your web browser ?  
   type: article
   url: https://www.stephensanwo.dev/blog/what-happens-when-you-type-a-url-in-your-web-browser
-  image: https://192.168.1.244:4100/static/assets/ai.svg
+  image: https://192.168.1.244:4100/static/assets/infographic.svg
   tags: 
    - Infographic
    - HTTP
