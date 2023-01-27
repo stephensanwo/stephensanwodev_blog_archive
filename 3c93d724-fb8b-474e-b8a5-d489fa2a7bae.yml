@@ -43,7 +43,6 @@ data:
 
     - type: markdown
       content: |
-        ![Blog Image](https://imagedelivery.net/QvztslYf_CbfgwmRjfn0OA/49a26f2b-f4e1-48f2-bcf1-ae7c2e5c7c00/public)
 
         #### How to Get Started with Huggingface
 
